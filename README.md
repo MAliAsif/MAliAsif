@@ -1,4 +1,4 @@
-# ⚡ Muhammad Ali Asif
+# 📶 Muhammad Ali Asif
 
 🎓 I am an Electrical Engineer from NUST CEME.  
 💡 I’m passionate about **Embedded Systems**, **IoT**, and **Machine Learning**.  
