@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://m-ali-asif-portfolio-ekdw7bv6x-m-ali-asifs-projects.vercel.app/" target="_blank">
+  <a href="https://m-ali-asif-portfolio.vercel.app/" target="_blank">
     🔗 Visit My Portfolio
   </a>
 </p>
